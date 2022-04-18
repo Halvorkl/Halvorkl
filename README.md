@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Halvorkl
+- 👀 I’m interested in technology and electronics
+- 🌱 I’m currently learning electronics/curcuitsdesign and programming
+- 📫 How to reach me halvorkl@gmail.com
